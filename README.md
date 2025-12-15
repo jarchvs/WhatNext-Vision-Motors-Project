@@ -1,1 +1,3 @@
 # WhatNext-Vision-Motors-Project
+What's Next Vision Motors is significantly improving its customer experience and operational efficiency by implementing a cutting-edge Salesforce CRM that streamlines the vehicle ordering process by automatically assigning orders to the nearest dealer based on customer location and preventing orders for out-of-stock vehicles, utilizing Apex triggers for stock validation, batch jobs for stock updates, and scheduled Apex for automated order processing, ultimately enhancing customer satisfaction and improving overall operational efficiency through dynamic status updates and scheduled test drive reminders.
+Demonstration Link: https://drive.google.com/file/d/1cByS7sPcLKI2sjbPooDFiFQGnUDoWESj/view?usp=drive_link
